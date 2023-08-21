@@ -287,6 +287,9 @@ What I didn't do
   this test, and it's pretty easy to wipe the DB and start again by restarting the server.
 - A way to list transfers (incoming and outgoing) by account. The model is prepared for that, since it
   has the FKs needed, but would take additional time.
+- Integration tests using BDD with Cucumber. I would love that, but... other far more important things
+  were left aside. Unless I really wanted to show my proficiency in BDD, which is not even a dealbreaker
+  for this position.
 - Different currencies.
 
 ## Last considerations
